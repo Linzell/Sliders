@@ -1,3 +1,4 @@
 ---
-src: ./pages/ph-UserDoc.md // [!code highlight]
+src: ./pages/ph-UserDoc.md
+theme: purplin
 ---

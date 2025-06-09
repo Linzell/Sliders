@@ -1,7 +1,3 @@
----
-theme: purplin
----
-
 # Documentation utilisateurs
 
 Présentation de quelques outils pour la mise en ligne d'une documentation.
@@ -47,10 +43,10 @@ layout: intro
 
 </div>
 <div class="relative flex justify-center">
-    <img src="./assets/images/markdown.png" class="absolute top--40">
-    <img v-click="1" src="./assets/images/gitlab.png" class="absolute top--40">
-    <img v-click="2" src="./assets/images/vitepress.png" class="absolute top--40">
-    <img v-click="3" src="./assets/images/versions.png" class="absolute top--40">
+    <img src="/assets/images/markdown.png" class="absolute top--40">
+    <img v-click="1" src="/assets/images/gitlab.png" class="absolute top--40">
+    <img v-click="2" src="/assets/images/vitepress.png" class="absolute top--40">
+    <img v-click="3" src="/assets/images/versions.png" class="absolute top--40">
 </div>
 </div>
 
@@ -203,7 +199,7 @@ class: "text-center"
 <br />
 
 <div class="flex justify-center">
-    <img src="./assets/images/qrCode.png" style="width: 200px;">
+    <img src="/assets/images/qrCode.png" style="width: 200px;">
 </div>
 
 <BarBottom  title="Charlie Cohen">
